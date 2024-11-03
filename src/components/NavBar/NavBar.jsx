@@ -8,7 +8,7 @@ function NavBar() {
         <NavLink to="/">Home</NavLink>
       </li>
       <li>
-        <NavLink>Parent</NavLink>
+        <NavLink to="/listedBooks">Listed Books</NavLink>
       </li>
     </>
   );
